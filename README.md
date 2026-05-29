@@ -1,5 +1,5 @@
 # barathmohanraj
-My name is Barath M and I’m a Mechatronics Engineer completed M.Tech from VIT, where I developed strong foundations in robotic systems, Electrical and Mechanical motion mechanisms, and industrial automation technologies  focused on improving manufacturing efficiency and processes.
+My name is Barath M and I’m a Mechatronics Engineer completed M.Tech from VIT, where I developed strong foundations in robotic systems, Electrical and Mechanical motion mechanisms, and industrial automation technologies  focused on improving manufacturing efficiency and processes. 
 
 I have 5 years of work experience in Automation Industry. My previous role was in “Alstrut India Pvt Limited” where I worked in Cobots deployment at customer sites like Royal Enfield, Indomim, Schneider, ITC . Tools specialised during my work was Polyscope and Languages used for deployment is UR Script .
 Currently Iam working in “Malles Automated and Robotic Systems Pvt Limited” for past 3 years. In my current role I have worked in  Development of conceptual designs of industrial robots and SPMs , supply chain management, Costing and budgeting . I have also assisted in Robotic operating system(ROS) related projects.
