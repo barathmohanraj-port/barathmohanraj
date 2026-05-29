@@ -41,3 +41,16 @@ Vision System Integration with Universal Robots (UR)
     
 Intelligent Feeding & Gripping System Integration 
 • Configured Flexibowl feeding systems along with OnRobot and Robotiq grippers to enhance robotic adaptability, precision handling, and automated component feeding operations.
+
+
+
+
+TOOLS & TECHNOLOGIES Robotics Platforms: Universal Robots (UR), Fanuc, ABB, Techman 
+AMR & Robotics: Omron AMR, MiR, ROS, ROS2 
+Vision Systems: Cognex, Baumer, HIK Vision 
+Programming Languages: C, C++, Python, Matlab and Simulink 
+Automation & Controls: PLC Programming (Basics), Control System Integration
+CAD & Simulation Tools: AutoCAD, SolidWorks, Creo, Fusion 360, ANSYS
+Industrial Tools & Components: Flexibowl, Robotiq, On Robot Grippers 
+Engineering Areas: Machine Tending, Screwdriving, Sanding, Glue Dispensing, PCB Assembly Automation 
+EV & Mobility Concepts: Battery Management Systems (BMS), Regenerative Braking, Vehicle Dynamics, Electric Mobility Systems 
